@@ -9,6 +9,10 @@
 
 # Building Websites With HTML, CSS, and JavaScript: Getting Started
 
+## Live Demo
+
+[Live Demo Link](https://abdulwajid99.github.io/SaylaniWeb/)
+
 ## Tools
 
 The following tools help make easier to work with sample code.
@@ -71,7 +75,7 @@ git clone https://github.com/AbdulWajid99/SaylaniWeb
 - [Layout techniques](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Introduction)
 - [Beginner's guide to media queries](https://developer.mozilla.org/docs/Learn/CSS/CSS_layout/Media_queries)
 
-## Tools
+## Usefull Tools
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
