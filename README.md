@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+	<a href="header.svg">
 		<img src="header.svg" width="800" height="400" alt="Click to see the source">
 	</a>
 	<br>
@@ -21,10 +21,10 @@ The following tools help make easier to work with sample code.
 
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
 
-[Download the ZIP from this location](https://github.com/craigshoemaker/html-css-javascript-getting-started/archive/master.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+Run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 
 ```bash
-git clone https://github.com/craigshoemaker/html-css-javascript-getting-started
+git clone https://github.com/AbdulWajid99/SaylaniWeb
 ```
 
 - Once the files are on your machine, open the _html-css-javascript-getting-started_ folder in [Visual Studio Code](https://code.visualstudio.com/).
